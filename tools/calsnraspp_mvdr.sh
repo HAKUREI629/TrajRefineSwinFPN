@@ -1,0 +1,10 @@
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/20dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/21dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/22dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/23dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/24dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/25dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/26dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/27dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/28dB/  --truth tools/truth.mat --single 1 --threshold 2
+python tools/calculatetrace.py --input ./outputs/seg/swin.fpnasppv5/02-27-06:48:27//diffDoA/testsimMVDR80000/29dB/  --truth tools/truth.mat --single 1 --threshold 2

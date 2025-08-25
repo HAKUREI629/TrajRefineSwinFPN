@@ -1,0 +1,10 @@
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-20dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-21dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-22dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-23dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-24dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-25dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-26dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-27dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-28dB/ --truth truth.mat --single 1 --threshold 2
+python calculatetrace.py --input /wangyunhao/cds/wangyunhao/data/BTR/mmsegform/test/512/lognorm_frame/New202502/SNR/MUSIC/-29dB/ --truth truth.mat --single 1 --threshold 2
